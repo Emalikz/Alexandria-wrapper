@@ -1,0 +1,3 @@
+[submodule "Alexandria-Auth"]
+	path = Alexandria-Auth
+	url = git@github.com:Emalikz/Alexandria-Auth.git
